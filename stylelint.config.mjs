@@ -1,0 +1,4 @@
+export default {
+  extends: "stylelint-config-standard",
+  customSyntax: "postcss-lit"
+};
