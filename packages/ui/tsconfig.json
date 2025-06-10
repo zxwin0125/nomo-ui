@@ -2,7 +2,8 @@
   "extends": "../../tsconfig.json",
   "compilerOptions": {
     "declaration": true,
-    "outDir": "build"
+    "jsx": "react-jsx"
   },
-  "include": ["src", "../../@types"]
+  "include": ["src", "./tsup.config.ts", "../../@types"],
+  "exclude": ["./es"]
 }
