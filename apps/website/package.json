@@ -1,0 +1,18 @@
+{
+  "name": "docs-dumi",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "dumi dev",
+    "docs:build": "dumi build",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "react-layout-kit": "1.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.3",
+    "antd-style": "3.6.2",
+    "dumi": "2.2.17",
+    "lucide-react": "0.396.0"
+  }
+}
