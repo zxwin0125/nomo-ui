@@ -1,17 +1,25 @@
 {
   "name": "@nomo/ui",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
+  "description": "nomo-ui 官方组件库",
+  "main": "build/index.js",
+  "module": "build/index.js",
+  "files": [
+    "build"
+  ],
   "scripts": {
-    "dev": "tsc -w"
+    "dev": "tsc -w",
+    "build": "tsc --build"
   },
   "author": "zxwin0125",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "@types/react": "^19.1.6",
-    "@types/react-dom": "^19.1.6",
-    "typescript": "^5.8.3"
+    "@types/react": "18.2.75",
+    "@types/react-dom": "18.2.24",
+    "typescript": "5.4.5"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   }
 }
