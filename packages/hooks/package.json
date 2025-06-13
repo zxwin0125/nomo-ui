@@ -1,0 +1,23 @@
+{
+  "name": "@nomo/hooks",
+  "version": "1.0.0",
+  "description": "nomo-ui 官方 Reack Hooks 库，主要用于 UI 包使用",
+  "type": "module",
+  "main": "es/index.js",
+  "module": "es/index.js",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "dev": "tsup --watch",
+    "build": "tsup"
+  },
+  "author": "zxwin0125",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "8.1.0"
+  },
+  "peerDependencies": {
+    "react": "18.2.0"
+  }
+}

@@ -3,7 +3,7 @@ import type { SiteThemeConfig } from 'dumi-theme-antd-style';
 import path from 'node:path'
 
 const themeConfig: SiteThemeConfig = {
-  name: 'Ant Design Style Dumi Theme',
+  name: 'Nomo UI',
 }
 
 export default defineConfig({
