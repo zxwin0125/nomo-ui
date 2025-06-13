@@ -1,0 +1,12 @@
+{
+  "name": "nomo-demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.ts",
+  "dependencies": {
+    "@nomo/ui": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.75"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "docs-dumi",
+  "name": "nomo-docs",
   "version": "1.0.0",
   "scripts": {
     "dev": "dumi dev",
