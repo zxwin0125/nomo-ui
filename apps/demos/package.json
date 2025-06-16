@@ -7,6 +7,6 @@
     "@nomo/ui": "workspace:*"
   },
   "devDependencies": {
-    "@types/react": "18.2.75"
+    "@types/react": "19.1.8"
   }
 }
