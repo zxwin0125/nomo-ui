@@ -1,10 +1,12 @@
 ---
-nav: 组件
-group: 基础
+group: 通用
 order: 1
+title: Button 按钮
 description: 按钮用于开始一个即时操作
 ---
 
-## TODO
+# Button 按钮
 
-uuuu 说
+## dumi 一些其他用法
+
+test
