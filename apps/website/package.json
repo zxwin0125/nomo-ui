@@ -6,14 +6,11 @@
     "docs:build": "dumi build",
     "start": "npm run dev"
   },
-  "dependencies": {
-    "react-layout-kit": "1.9.0"
-  },
   "devDependencies": {
-    "@types/react": "18.3.3",
-    "antd-style": "3.6.2",
+    "@types/react": "19.1.8",
+    "antd-style": "3.7.1",
     "dumi": "2.4.21",
-    "dumi-theme-antd-style": "^0.31.1",
-    "lucide-react": "0.396.0"
+    "dumi-theme-antd": "^0.4.4",
+    "lucide-react": "0.515.0"
   }
 }

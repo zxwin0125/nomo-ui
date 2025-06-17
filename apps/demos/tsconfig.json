@@ -6,6 +6,5 @@
     "baseUrl": "./",
     "isolatedModules": true
   },
-  "include": [".", "../../@types"],
-  "exclude": ["node_modules"]
+  "include": [".", "../../@types"]
 }
